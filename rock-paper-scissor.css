@@ -101,7 +101,7 @@ body{
 
 @media only screen and (max-width: 450px) {
     html{ 
-        user-zoom: none;
+        user-zoom: fixed;
     }
     .box{
         background-color: transparent;
