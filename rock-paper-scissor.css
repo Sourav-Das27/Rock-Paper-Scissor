@@ -52,7 +52,7 @@ body{
 .moves-div{
     display: inline-block;
     height: 45px;
-    width: 105px;
+    width: 110px;
     
 }
 
@@ -122,5 +122,10 @@ body{
     }
     .result-div{
         margin-top: 20px;
+    }
+    .rock-paper-scissor-div button:hover{
+    background-color: rgb(255, 255, 255);
+    transform: none;
+    border:none;
     }
 }
