@@ -113,12 +113,7 @@ body{
         font-size: 25px;
         margin-top: 5%;
     }
-    .rock-paper-scissor-div button:active{
-        background-color: rgb(255, 10, 10);
-        transform: scale(1.1);
-        border:2.5px solid black;
-        box-shadow: none;
-    }
+
     .rock-paper-scissor-div button img{
         width: 50px;
     }
