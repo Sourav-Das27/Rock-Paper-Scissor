@@ -123,9 +123,4 @@ body{
     .result-div{
         margin-top: 20px;
     }
-    .rock-paper-scissor-div button:hover{
-    background-color: rgb(255, 255, 255);
-    transform: none;
-    border:none;
-    }
 }
